@@ -12,7 +12,7 @@
 .body{
     width: 100%;
     height: 100vh;
-    background-image:url(background.jpg);
+    background-image:url(https://github.com/Potassium18/Doucex/blob/main/background.jpg?raw=true);
     background-size: cover;   
     background-position: center;
     animation: fadeInAnimation ease 3s;
